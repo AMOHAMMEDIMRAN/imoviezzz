@@ -79,6 +79,10 @@ i{
     align-items: center;
     border: 3px solid rgb(255, 18, 117);
 }
+.ad img{
+    width: 20rem;
+    height: 26rem;
+}
 .buuton{
     padding: 20px;
 }
